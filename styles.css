@@ -66,6 +66,7 @@ a {
 }
 
 .social-container a {
+  display: inline;
   text-align: center;
   font-size: 40px;
   text-decoration: none;
