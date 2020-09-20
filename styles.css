@@ -63,7 +63,6 @@ a {
 .social-container {
   text-align: center;
   width: 100%;
-  min-height: 100px;
 }
 
 .social-container a {
@@ -72,6 +71,10 @@ a {
   text-decoration: none;
   margin: 10px;
   color: black;
+}
+
+.social-container span {
+  text-align: center;
 }
 
 .social-btn {
